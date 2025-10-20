@@ -1,3 +1,8 @@
+
+
+
+
+
 1.  sync_{}_pcilc_reffreq23GHz_nside64_pivot_beta_s-3.1.fits => Synchrotron zeroth/first moment and spectral index modulated synchrotron amplitude maps recovered from cPILC pipeline over the mask we used
 
 2.  Beta_{}_pivot_beta_s-3.1_reffreq23_nside32.fits =>  mean/uncertainty of synchrotron spectral index maps fitting the moment maps
