@@ -1,7 +1,4 @@
-
-
-
-
+#These synchrotron spectral index maps are generated using a semi-blind component separation method, complementary to parametric fitting technique.
 
 1.  sync_{}_pcilc_reffreq23GHz_nside64_pivot_beta_s-3.1.fits => Synchrotron zeroth/first moment and spectral index modulated synchrotron amplitude maps recovered from cPILC pipeline over the mask we used
 
@@ -11,6 +8,9 @@
 
 4. GAL_NPS_mask_nside64.fits => 30% high SNR region mask of QUIJOTE survey
 
-5. region_index_map.fits => map of index of 21 partitions  
+5. region_index_map.fits => map of index of 21 partitions
 
 
+
+If you use these maps, please cite following papers:
+1. 
