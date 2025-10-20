@@ -1,0 +1,10 @@
+1.  sync_{}_pcilc_reffreq23GHz_nside64_pivot_beta_s-3.1.fits => Synchrotron zeroth/first moment and spectral index modulated synchrotron amplitude maps recovered from cPILC pipeline over the mask we used
+
+2.  Beta_{}_pivot_beta_s-3.1_reffreq23_nside32.fits =>  mean/uncertainty of synchrotron spectral index maps fitting the moment maps
+
+3.  beta_{}_region_1113K30Ka_nside32.fits => mean/uncertainty of synchrotron spectral index maps fitting the moment maps over 21 regions
+
+4. GAL_NPS_mask_nside64.fits => 30% high SNR region mask of QUIJOTE survey
+
+5. region_index_map.fits => map of index of 21 partitions
+
